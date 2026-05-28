@@ -1,4 +1,4 @@
-# 📑JavaScript Beginner Practice Questions (Phase -2 ) Sheet - 2
+# 📑JavaScript Beginner Practice Questions (Phase -2 )
 
 ## 1. Array
 
