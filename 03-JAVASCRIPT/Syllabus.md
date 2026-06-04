@@ -20,8 +20,8 @@
 - The `typeof` operator
 - Type conversion vs type coercion (implicit vs explicit)
 - Operators
-    - Arithmetic: `+`, , , `/`, `%`, , `++`,
-    - Assignment: `=`, `+=`, `=`, `=`, `/=`
+    - Arithmetic: `+`, -, *, `/`, `%`, **, `++`, --
+    - Assignment: `=`, `+=`, `-=`, `*=`, `/=`
     - Comparison: `==` vs `===`, `!=` vs `!==`, `>`, `<`, `>=`, `<=`
     - Logical: `&&`, `||`, `!`
     - Ternary operator (`condition ? a : b`)
