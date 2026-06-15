@@ -1,3 +1,5 @@
+# Introduction to DOM (Document Object Model)
+
 ## 1. HTML to Browser Pipeline
 
 When a browser receives an HTML file, it follows a series of steps to convert the code into a visible webpage.
