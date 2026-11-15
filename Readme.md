@@ -78,5 +78,3 @@ The resources are organized around continuous learning rather than a fixed cours
 The most important idea behind this repository is simple:
 
 > Learning is stronger when knowledge is understood, practiced, explained, and revisited.
-
-This collection will continue to grow one concept, one explanation, and one page at a time.
