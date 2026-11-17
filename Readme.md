@@ -60,7 +60,7 @@ Explain it clearly
 Save it as a reusable resource
 ```
 
-Writing the notes is part of the learning process itself. If a concept cannot be explained clearly, it usually means there is still something left to understand.
+Writing the notes is part of the learning process itself. If a concept cannot be explained clearly, it usually means there is still something left to understand so keep working on it.
 
 This repository is useful for:
 
